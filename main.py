@@ -3,7 +3,7 @@ from tkmacosx import Button
 import tkinter.messagebox
 
 root = Tk()
-root.title("Scientific Calculator")
+root.title("Simple Calculator")
 root.configure(background="blue")
 root.resizable(width=False, height=False)
 root.geometry('500x700')
